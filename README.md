@@ -2,4 +2,4 @@
 
 Aula para reproduzir a interface (simplificada) da Netflix
 
-Usamos HTML, CSS e JavaScript
+Para práticar um pouco de HTML, CSS e JavaScript aprendido em aulas administradas pela DIO.com
